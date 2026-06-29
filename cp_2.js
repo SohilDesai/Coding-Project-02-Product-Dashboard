@@ -15,3 +15,8 @@ function fetchProductsThen() {
         });
 
 }
+function handleError(error) {
+
+    console.log("An error occurred:", error.message);
+
+}
