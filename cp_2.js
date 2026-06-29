@@ -61,3 +61,5 @@ async function fetchProductsAsync() {
     }
 
 }
+fetchProductsThen();
+fetchProductsAsync();
